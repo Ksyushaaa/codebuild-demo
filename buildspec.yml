@@ -3,7 +3,7 @@
 #
 # Copyleft (c) by Denis Astahov
 #--------------------------------------------------------------
-version: 0.2
+version: 1.0
 
 env:
   variables:
